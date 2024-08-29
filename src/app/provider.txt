@@ -1,0 +1,1 @@
+// application provider that wraps the entire application with different global providers
